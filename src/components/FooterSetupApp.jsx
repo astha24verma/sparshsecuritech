@@ -32,16 +32,16 @@ export const FooterSetupApp = () => {
                             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                                 <h6 className="text-uppercase mb-4 font-weight-bold">Products</h6>
                                 <p>
-                                    <a className="text-white">MDBootstrap</a>
+                                    <a href="# " className="text-white">MDBootstrap</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">MDWordPress</a>
+                                    <a href="# " className="text-white">MDWordPress</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">BrandFlow</a>
+                                    <a href="# " className="text-white">BrandFlow</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Bootstrap Angular</a>
+                                    <a href="# " className="text-white">Bootstrap Angular</a>
                                 </p>
                             </div>
 
@@ -54,16 +54,16 @@ export const FooterSetupApp = () => {
                                     Useful links
                                 </h6>
                                 <p>
-                                    <a className="text-white">Your Account</a>
+                                    <a href="# " className="text-white">Your Account</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Become an Affiliate</a>
+                                    <a href="# "  className="text-white">Become an Affiliate</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Shipping Rates</a>
+                                    <a href="# "  className="text-white">Shipping Rates</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Help</a>
+                                    <a href="# "  className="text-white">Help</a>
                                 </p>
                             </div>
 
@@ -91,38 +91,36 @@ export const FooterSetupApp = () => {
 
                                 <div className="p-3">
                                 Copyright © 2024 
-                                    <a className="text-white" href="https://www.sparshsecuritech.com/"
-                                    > Sparsh Securitech</a
-                                    >
+                                    <a className="text-white" href="https://www.shreyasecuritech.com/"> Sparsh Securitech</a>
                                 </div>
 
                             </div>
 
                             <div className="col-md-5 col-lg-4 ml-lg-0 text-center text-md-end">
 
-                                <a
+                                <a href="# " 
                                     className="btn btn-outline-light btn-floating m-1 text-white"
-                                    role="button"
-                                ><i className="fab fa-facebook-f"></i
-                                ></a>
+                                    role="button">
+                                    <i className="fab fa-facebook-f"></i>
+                                </a>
 
-                                <a
+                                <a href="# " 
                                     className="btn btn-outline-light btn-floating m-1 text-white"
-                                    role="button"
-                                ><i className="fab fa-twitter"></i
-                                ></a>
+                                    role="button">
+                                    <i className="fab fa-twitter"></i>
+                                </a>
 
-                                <a
+                                <a href="# " 
                                     className="btn btn-outline-light btn-floating m-1 text-white"
-                                    role="button"
-                                ><i className="fab fa-google"></i
-                                ></a>
+                                    role="button">
+                                    <i className="fab fa-google"></i>
+                                </a>
 
-                                <a
+                                <a href="# " 
                                     className="btn btn-outline-light btn-floating m-1"
-                                    role="button"
-                                ><i className="fab fa-instagram"></i
-                                ></a>
+                                    role="button">
+                                    <i className="fab fa-instagram"></i>
+                                </a>
                             </div>
 
                         </div>
