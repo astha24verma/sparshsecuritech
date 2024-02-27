@@ -2,11 +2,9 @@ import React from 'react';
 
 export const FooterSetupApp = () => {
     return (
-        <> <div className="container-fluid m-0 w-align-items-md-stretch d-flex flex-column vh-100" >
+        <> <div className="container-fluid m-0 w-align-items-md-stretch d-flex flex-column vh-100 px-0" >
 
-            <footer
-                className="container-fluid text-center text-lg-start text-white bg-black mt-auto"
-            >
+            <footer className="container-fluid text-center text-lg-start text-white bg-black mt-auto px-0">
 
                 <div className="container-fluid p-4 pb-0">
 
@@ -28,6 +26,51 @@ export const FooterSetupApp = () => {
 
                             <hr className="w-100 clearfix d-md-none" />
 
+                            <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+                                <h6 className="text-uppercase mb-4 font-weight-bold">Solutions</h6>
+                                <p>
+                                    <a className="text-white link-offset-2 link-underline link-underline-opacity-0">Defense</a>
+                                </p>
+                                <p>
+                                    <a className="text-white link-offset-2 link-underline link-underline-opacity-0">Banking</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Education</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Healthcare</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Law Enforcement</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Oil And Gas</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Railways</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Real Estate</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Retail Sector</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Smart City</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Tower Solution</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Traffic Solution</a>
+                                </p>
+                                <p>
+                                    <a className="text-white">Transport Solution</a>
+                                </p>
+
+                            </div>
+
+                            
 
                             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                                 <h6 className="text-uppercase mb-4 font-weight-bold">Products</h6>
@@ -90,7 +133,7 @@ export const FooterSetupApp = () => {
                             <div className="col-md-7 col-lg-8 text-center text-md-start">
 
                                 <div className="p-3">
-                                Copyright © 2024 
+                                    Copyright © 2024
                                     <a className="text-white" href="https://www.sparshsecuritech.com/"
                                     > Sparsh Securitech</a
                                     >
