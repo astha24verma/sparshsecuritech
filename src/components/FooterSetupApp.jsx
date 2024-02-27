@@ -2,7 +2,7 @@ import React from 'react';
 
 export const FooterSetupApp = () => {
     return (
-        <> <div className="container-fluid m-0 w-align-items-md-stretch d-flex flex-column vh-100 bg-success" >
+        <> <div className="container-fluid m-0 w-align-items-md-stretch d-flex flex-column vh-100" >
 
             <footer
                 className="container-fluid text-center text-lg-start text-white bg-black mt-auto"
