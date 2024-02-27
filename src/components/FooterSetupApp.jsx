@@ -29,43 +29,43 @@ export const FooterSetupApp = () => {
                             <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                                 <h6 className="text-uppercase mb-4 font-weight-bold">Solutions</h6>
                                 <p>
-                                    <a className="text-white link-offset-2 link-underline link-underline-opacity-0">Defense</a>
+                                    <a href="# " className="text-white link-offset-2 link-underline link-underline-opacity-0">Defense</a>
                                 </p>
                                 <p>
-                                    <a className="text-white link-offset-2 link-underline link-underline-opacity-0">Banking</a>
+                                    <a href="# "className="text-white link-offset-2 link-underline link-underline-opacity-0">Banking</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Education</a>
+                                    <a href="# "className="text-white">Education</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Healthcare</a>
+                                    <a href="# "className="text-white">Healthcare</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Law Enforcement</a>
+                                    <a href="# "className="text-white">Law Enforcement</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Oil And Gas</a>
+                                    <a href="# "className="text-white">Oil And Gas</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Railways</a>
+                                    <a href="# "className="text-white">Railways</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Real Estate</a>
+                                    <a href="# "className="text-white">Real Estate</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Retail Sector</a>
+                                    <a href="# "className="text-white">Retail Sector</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Smart City</a>
+                                    <a href="# "className="text-white">Smart City</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Tower Solution</a>
+                                    <a href="# "className="text-white">Tower Solution</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Traffic Solution</a>
+                                    <a href="# "className="text-white">Traffic Solution</a>
                                 </p>
                                 <p>
-                                    <a className="text-white">Transport Solution</a>
+                                    <a href="# "className="text-white">Transport Solution</a>
                                 </p>
 
                             </div>
@@ -100,13 +100,13 @@ export const FooterSetupApp = () => {
                                     <a href="# " className="text-white">Your Account</a>
                                 </p>
                                 <p>
-                                    <a href="# "  className="text-white">Become an Affiliate</a>
+                                    <a href="# " className="text-white">Become an Affiliate</a>
                                 </p>
                                 <p>
-                                    <a href="# "  className="text-white">Shipping Rates</a>
+                                    <a href="# " className="text-white">Shipping Rates</a>
                                 </p>
                                 <p>
-                                    <a href="# "  className="text-white">Help</a>
+                                    <a href="# " className="text-white">Help</a>
                                 </p>
                             </div>
 
@@ -155,13 +155,13 @@ export const FooterSetupApp = () => {
                                     <i className="fab fa-twitter"></i>
                                 </a>
 
-                                <a href="# " 
+                                <a href="# "
                                     className="btn btn-outline-light btn-floating m-1 text-white"
                                     role="button">
                                     <i className="fab fa-google"></i>
                                 </a>
 
-                                <a href="# " 
+                                <a href="# "
                                     className="btn btn-outline-light btn-floating m-1"
                                     role="button">
                                     <i className="fab fa-instagram"></i>
