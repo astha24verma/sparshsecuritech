@@ -1,9 +1,30 @@
 import React from 'react'
 
-function Products() {
+const Products = () => { 
   return (
-    <div>
-      
+    <div class="product">
+      <h2>Products</h2>
+      {/* products */}
+      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+        <div class="textArea">
+          <h1>React</h1>
+        </div>
+      </div>
+      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+        <div class="textArea">
+          <h1>React</h1>
+        </div>
+      </div>
+      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+        <div class="textArea">
+          <h1>React</h1>
+        </div>
+      </div>
+      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+        <div class="textArea">
+          <h1>React</h1>
+        </div>
+      </div>
     </div>
   )
 }
