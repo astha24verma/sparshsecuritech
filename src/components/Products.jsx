@@ -2,27 +2,42 @@ import React from 'react'
 
 const Products = () => { 
   return (
-    <div class="product">
-      <h2>Products</h2>
-      {/* products */}
-      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
-        <div class="textArea">
-          <h1>React</h1>
+    <div className="products-showcase">
+      <p>Product Spotlight</p>
+      <div class="product">
+        
+        {/* products */}
+        <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+          <div class="overlay">
+            <p class="text">details</p>
+          </div>
+          <div class="textArea">
+            <h1>React</h1>
+          </div>
         </div>
-      </div>
-      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
-        <div class="textArea">
-          <h1>React</h1>
+        <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+          <div class="overlay">
+            <p class="text">Details</p>
+          </div>
+          <div class="textArea">
+            <h1>React</h1>
+          </div>
         </div>
-      </div>
-      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
-        <div class="textArea">
-          <h1>React</h1>
+        <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+         <div class="overlay">
+            <p class="text">Details</p>
+          </div>
+          <div class="textArea">
+            <h1>React</h1>
+          </div>
         </div>
-      </div>
-      <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
-        <div class="textArea">
-          <h1>React</h1>
+        <div class="product-card" style={{backgroundImage: 'url("/assets/products/cam.jpg")'}}>
+         <div class="overlay">
+            <p class="text">Details</p>
+          </div>
+          <div class="textArea">
+            <h1>React</h1>
+          </div>
         </div>
       </div>
     </div>
